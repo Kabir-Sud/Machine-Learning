@@ -4,6 +4,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+import cv2 
 
 #Importing the datasets
 dataset = pd.read_csv('Salary_Data.csv')
